@@ -1,0 +1,58 @@
+{
+  "workbench.colorTheme": "Tokyo Night Storm",
+  "workbench.iconTheme": "helium-icon-theme",
+  "editor.fontFamily": "Fira Code",
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "javascript.validate.enable": false,
+  "eslint.codeActionsOnSave.mode": "all",
+  "emmet.includeLanguages": {
+    "erb": "html",
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "plaintext": "jade"
+  },
+  "workbench.startupEditor": "newUntitledFile",
+  "files.autoSave": "onFocusChange",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "eslint.lintTask.enable": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.format.insertSpaceAfterConstructor": false,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "files.insertFinalNewline": true,
+  "bracket-pair-colorizer-2.activeScopeCSS": [
+    "borderStyle : solid",
+    "borderWidth : 1px",
+    "borderColor : {color}",
+    "opacity: 0.5"
+  ],
+  "editor.fontWeight": "400",
+  "C_Cpp.updateChannel": "Insiders",
+  "diffEditor.wordWrap": "on",
+  "javascript.preferences.quoteStyle": "single",
+  "prettier.singleQuote": true,
+  "go.useLanguageServer": true,
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "eslint.validate": [
+    { "language": "json",
+      "autoFix": true
+    }
+  ],
+  "emmet.triggerExpansionOnTab": true,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  }
+}
